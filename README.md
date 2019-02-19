@@ -15,5 +15,8 @@ customize: `User/env-import.sublime-settings`
 }
 ```
 
+#### Usage
+environment variables imported on Sublime Text load
+
 #### Links
 [packagecontrol.io/packages/env-import](https://packagecontrol.io/packages/env-import)
