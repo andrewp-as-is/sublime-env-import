@@ -1,6 +1,6 @@
 #!/usr/bin/env python
-import sublime
 import os
+import sublime
 
 SETTINGS = sublime.load_settings("env-import.sublime-settings")
 FILES = SETTINGS.get("files")
